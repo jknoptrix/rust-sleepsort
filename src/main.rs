@@ -1,4 +1,4 @@
-use std::io
+use std::io;
 
 mod declared_macro;
 mod declared_notraits;
